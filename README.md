@@ -1,6 +1,7 @@
 # ProMEP
 Zero-shot prediction of mutation effects on protein function with multimodal deep representation learning
-<<<<<<< HEAD
+
+conda env create -f environment.yml
 
 ## Quick Start 
 As a prerequisite, you must have  [SE(3)-Transformers](https://github.com/NVIDIA/DeepLearningExamples/tree/master/DGLPyTorch/DrugDiscovery/SE3Transformer) installed to use this repository.
